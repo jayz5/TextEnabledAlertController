@@ -12,6 +12,7 @@
 		691443C91F3B990A00F269CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 691443C71F3B990A00F269CB /* Main.storyboard */; };
 		691443CB1F3B990A00F269CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 691443CA1F3B990A00F269CB /* Assets.xcassets */; };
 		691443CE1F3B990A00F269CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 691443CC1F3B990A00F269CB /* LaunchScreen.storyboard */; };
+		691443D61F3B9B0200F269CB /* TextEnabledAlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691443D51F3B9B0200F269CB /* TextEnabledAlertController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		691443CA1F3B990A00F269CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		691443CD1F3B990A00F269CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		691443CF1F3B990A00F269CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		691443D51F3B9B0200F269CB /* TextEnabledAlertController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextEnabledAlertController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				691443C31F3B990A00F269CB /* AppDelegate.swift */,
 				691443C51F3B990A00F269CB /* ViewController.swift */,
+				691443D51F3B9B0200F269CB /* TextEnabledAlertController.swift */,
 				691443C71F3B990A00F269CB /* Main.storyboard */,
 				691443CA1F3B990A00F269CB /* Assets.xcassets */,
 				691443CC1F3B990A00F269CB /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				691443D61F3B9B0200F269CB /* TextEnabledAlertController.swift in Sources */,
 				691443C61F3B990A00F269CB /* ViewController.swift in Sources */,
 				691443C41F3B990A00F269CB /* AppDelegate.swift in Sources */,
 			);

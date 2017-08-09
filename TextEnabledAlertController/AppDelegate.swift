@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TextEnabledAlertController
 //
-//  Created by Jay Zhang on 8/9/17.
+//  Created by Jay Zahn on 8/9/17.
 //  Copyright © 2017 JayZahn. All rights reserved.
 //
 
